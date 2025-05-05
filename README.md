@@ -1,4 +1,4 @@
-# AI.farm
+# Know Your Coder Here
 <h1 align="center">Hi 👋 </h1>
 <h2 align="center">I'm Asemokha Clinton Etiuzale ♠ </h2>
 <h3 align="center">A passionate Data Scientist and Beginner AI trainer from 🇳🇬</h3>
