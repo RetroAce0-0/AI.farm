@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/clinton etiuzale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clinton etiuzale" height="30" width="40" /></a>
 <a href="https://kaggle.com/retro.ace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="retro.ace" height="30" width="40" /></a>
 <a href="https://instagram.com/ai_farmer09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ai_farmer09" height="30" width="40" /></a>
-<a href="https://medium.com/@axemokha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@axemokha" height="30" width="40" /></a>
+<a href="https://medium.com/@ai_farmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@axemokha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
